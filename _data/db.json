@@ -1,0 +1,421 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "date": {
+        "day": "15",
+        "month": "Feb"
+      },
+      "location": {
+        "city": "Cairo",
+        "country": "Egypt",
+        "address": "town down, Cairo"
+      },
+      "priceRange": "150 - 550 $"
+    },
+    {
+      "id": 2,
+      "date": {
+        "day": "5",
+        "month": "Mar"
+      },
+      "location": {
+        "city": "Giza",
+        "country": "Egypt",
+        "address": "Pyramids zone Giza"
+      },
+      "priceRange": "1500 - 5500 $"
+    },
+    {
+      "id": 3,
+      "date": {
+        "day": "10",
+        "month": "Apr"
+      },
+      "location": {
+        "city": "Hurghada",
+        "country": "Egypt",
+        "address": "El-Gouna"
+      },
+      "priceRange": "1000 - 5000 $"
+    },
+    {
+      "id": 4,
+      "date": {
+        "day": "30",
+        "month": "May"
+      },
+      "location": {
+        "city": "Sharm El-sheikh",
+        "country": "Egypt",
+        "address": "Blue hole Dahab"
+      },
+      "priceRange": "1000 - 5000 $"
+    },
+    {
+      "id": 5,
+      "date": {
+        "day": "01",
+        "month": "Jun"
+      },
+      "location": {
+        "city": "Cairo",
+        "country": "Egypt",
+        "address": "Castel Mohamed Ali"
+      },
+      "priceRange": "100 - 500 $"
+    },
+    {
+      "id": 6,
+      "date": {
+        "day": "11",
+        "month": "Jul"
+      },
+      "location": {
+        "city": "Alexandria",
+        "country": "Egypt",
+        "address": "North Coast"
+      },
+      "priceRange": "150 - 550 $"
+    },
+    {
+      "id": 7,
+      "date": {
+        "day": "25",
+        "month": "Aug"
+      },
+      "location": {
+        "city": "Alexandria",
+        "country": "Egypt",
+        "address": "town down, Alexandria"
+      },
+      "priceRange": "350 - 750 $"
+    },
+    {
+      "id": 8,
+      "date": {
+        "day": "31",
+        "month": "Sep"
+      },
+      "location": {
+        "city": "6 of October",
+        "country": "Egypt",
+        "address": "town down, Zayed City"
+      },
+      "priceRange": "20 - 50 $"
+    }
+  ],
+  "albums": [
+    {
+      "id": 1,
+      "img": "/assets/albums/cover/cover-1.png",
+      "name": "album 1",
+      "tracks": [
+        {
+          "name": "Serenade in D Major",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Midnight Lullaby",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Whispers of the Wind",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Dance of the Fireflies",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Echoes of the Past",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Enchanted Dreams",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Sunlight Serenity",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Misty Moonlight Melody",
+          "src": "assets/freedom.mp3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "img": "/assets/albums/cover/cover-2.png",
+      "name": "album 2",
+      "tracks": [
+        {
+          "name": "Serenade in D Major",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Midnight Lullaby",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Whispers of the Wind",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Dance of the Fireflies",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Echoes of the Past",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Enchanted Dreams",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Sunlight Serenity",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Misty Moonlight Melody",
+          "src": "assets/freedom.mp3"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "img": "/assets/albums/cover/cover-3.png",
+      "name": "album 3",
+      "tracks": [
+        {
+          "name": "Serenade in D Major",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Midnight Lullaby",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Whispers of the Wind",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Dance of the Fireflies",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Echoes of the Past",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Enchanted Dreams",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Sunlight Serenity",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Misty Moonlight Melody",
+          "src": "assets/freedom.mp3"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "img": "/assets/albums/cover/cover-4.png",
+      "name": "album 4",
+      "tracks": [
+        {
+          "name": "Serenade in D Major",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Midnight Lullaby",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Whispers of the Wind",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Dance of the Fireflies",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Echoes of the Past",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Enchanted Dreams",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Sunlight Serenity",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Misty Moonlight Melody",
+          "src": "assets/freedom.mp3"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "img": "/assets/albums/cover/cover-5.png",
+      "name": "album 5",
+      "tracks": [
+        {
+          "name": "Serenade in D Major",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Midnight Lullaby",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Whispers of the Wind",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Dance of the Fireflies",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Echoes of the Past",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Enchanted Dreams",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Sunlight Serenity",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Misty Moonlight Melody",
+          "src": "assets/freedom.mp3"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "img": "/assets/albums/cover/cover-6.png",
+      "name": "album 6",
+      "tracks": [
+        {
+          "name": "Serenade in D Major",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Midnight Lullaby",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Whispers of the Wind",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Dance of the Fireflies",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Echoes of the Past",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Enchanted Dreams",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Sunlight Serenity",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Misty Moonlight Melody",
+          "src": "assets/freedom.mp3"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "img": "/assets/albums/cover/cover-7.png",
+      "name": "album 7",
+      "tracks": [
+        {
+          "name": "Serenade in D Major",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Midnight Lullaby",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Whispers of the Wind",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Dance of the Fireflies",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Echoes of the Past",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Enchanted Dreams",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Sunlight Serenity",
+          "src": "assets/freedom.mp3"
+        },
+        {
+          "name": "Misty Moonlight Melody",
+          "src": "assets/freedom.mp3"
+        }
+      ]
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "data": "2023-07-15",
+      "title": "Rock Concert at Central park",
+      "description": "Join Us For Electrifying night of classic rock hits at central park ! The Lineup Includes Tribute bands for legendary rock icons."
+    },
+    {
+      "id": 2,
+      "data": "2023-11-25",
+      "title": "Jazz Jam Session",
+      "description": "Join Us For Electrifying night of classic rock hits at central park ! The Lineup Includes Tribute bands for legendary rock icons."
+    },
+    {
+      "id": 3,
+      "data": "2023-12-05",
+      "title": "EDM Extravaganza",
+      "description": "Join Us For Electrifying night of classic rock hits at central park ! The Lineup Includes Tribute bands for legendary rock icons."
+    },
+    {
+      "id": 4,
+      "data": "2023-12-15",
+      "title": "Acounstic Coffeehouse",
+      "description": "Join Us For Electrifying night of classic rock hits at central park ! The Lineup Includes Tribute bands for legendary rock icons."
+    },
+    {
+      "id": 5,
+      "data": "2023-12-20",
+      "title": "Classical SymphonyShowcase",
+      "description": "Join Us For Electrifying night of classic rock hits at central park ! The Lineup Includes Tribute bands for legendary rock icons."
+    },
+    {
+      "id": 6,
+      "data": "2023-12-25",
+      "title": "Hip-Hop Dance Battle",
+      "description": "Join Us For Electrifying night of classic rock hits at central park ! The Lineup Includes Tribute bands for legendary rock icons."
+    }
+  ]
+}
